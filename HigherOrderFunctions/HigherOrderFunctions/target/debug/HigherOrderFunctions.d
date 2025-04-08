@@ -1,0 +1,1 @@
+C:\Users\jacob\Documents\CSCI3334-Rust\rustspring2025\HigherOrderFunctions\HigherOrderFunctions\target\debug\HigherOrderFunctions.exe: C:\Users\jacob\Documents\CSCI3334-Rust\rustspring2025\HigherOrderFunctions\HigherOrderFunctions\src\main.rs
