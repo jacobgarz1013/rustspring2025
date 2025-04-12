@@ -1,0 +1,1 @@
+C:\Users\jacob\Documents\CSCI3334-Rust\rustspring2025\DataFetchProject\finacial_data_fetcher\target\debug\finacial_data_fetcher.exe: C:\Users\jacob\Documents\CSCI3334-Rust\rustspring2025\DataFetchProject\finacial_data_fetcher\src\main.rs

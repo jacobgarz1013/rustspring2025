@@ -16,6 +16,7 @@ fn assign_major(s: &mut Student, major: String) {
     s.major = major;
 }
 
+// create a vector of students1,2,3 and update all students major
 fn main() {
     let students = vec![
         Student { major: "".to_string() },

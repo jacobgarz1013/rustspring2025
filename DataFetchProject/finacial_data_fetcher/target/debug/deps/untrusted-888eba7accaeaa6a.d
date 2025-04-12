@@ -1,0 +1,10 @@
+C:\Users\jacob\Documents\CSCI3334-Rust\rustspring2025\DataFetchProject\finacial_data_fetcher\target\debug\deps\libuntrusted-888eba7accaeaa6a.rmeta: C:\Users\jacob\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\untrusted-0.9.0\src\lib.rs C:\Users\jacob\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\untrusted-0.9.0\src\input.rs C:\Users\jacob\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\untrusted-0.9.0\src\no_panic.rs C:\Users\jacob\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\untrusted-0.9.0\src\reader.rs
+
+C:\Users\jacob\Documents\CSCI3334-Rust\rustspring2025\DataFetchProject\finacial_data_fetcher\target\debug\deps\libuntrusted-888eba7accaeaa6a.rlib: C:\Users\jacob\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\untrusted-0.9.0\src\lib.rs C:\Users\jacob\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\untrusted-0.9.0\src\input.rs C:\Users\jacob\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\untrusted-0.9.0\src\no_panic.rs C:\Users\jacob\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\untrusted-0.9.0\src\reader.rs
+
+C:\Users\jacob\Documents\CSCI3334-Rust\rustspring2025\DataFetchProject\finacial_data_fetcher\target\debug\deps\untrusted-888eba7accaeaa6a.d: C:\Users\jacob\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\untrusted-0.9.0\src\lib.rs C:\Users\jacob\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\untrusted-0.9.0\src\input.rs C:\Users\jacob\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\untrusted-0.9.0\src\no_panic.rs C:\Users\jacob\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\untrusted-0.9.0\src\reader.rs
+
+C:\Users\jacob\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\untrusted-0.9.0\src\lib.rs:
+C:\Users\jacob\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\untrusted-0.9.0\src\input.rs:
+C:\Users\jacob\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\untrusted-0.9.0\src\no_panic.rs:
+C:\Users\jacob\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\untrusted-0.9.0\src\reader.rs:
