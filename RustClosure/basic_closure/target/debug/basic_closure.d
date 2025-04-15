@@ -1,0 +1,1 @@
+C:\Users\jacob\Documents\CSCI3334-Rust\rustspring2025\RustClosure\basic_closure\target\debug\basic_closure.exe: C:\Users\jacob\Documents\CSCI3334-Rust\rustspring2025\RustClosure\basic_closure\src\main.rs

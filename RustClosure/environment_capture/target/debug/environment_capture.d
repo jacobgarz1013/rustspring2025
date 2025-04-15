@@ -1,0 +1,1 @@
+C:\Users\jacob\Documents\CSCI3334-Rust\rustspring2025\RustClosure\environment_capture\target\debug\environment_capture.exe: C:\Users\jacob\Documents\CSCI3334-Rust\rustspring2025\RustClosure\environment_capture\src\main.rs
