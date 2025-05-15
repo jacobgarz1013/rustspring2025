@@ -3,7 +3,6 @@ use std::thread;
 
 fn main() {
     // TODO: Create a shared counter using Arc and Mutex
-
     let counter = Arc::new(Mutex::new(0));
 
     // TODO: Create a vector to store thread handles

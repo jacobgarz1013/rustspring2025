@@ -1,0 +1,4 @@
+[
+  {"url": "https://www.google.com", "status": 200, "response_time_ms": 699, "timestamp": 1747271326},
+  {"url": "https://httpstat.us/404", "status": 404, "response_time_ms": 547, "timestamp": 1747271326}
+]
