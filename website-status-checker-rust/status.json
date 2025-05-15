@@ -1,4 +1,5 @@
 [
-  {"url": "https://www.google.com", "status": 200, "response_time_ms": 699, "timestamp": 1747271326},
-  {"url": "https://httpstat.us/404", "status": 404, "response_time_ms": 547, "timestamp": 1747271326}
+  {"url": "https://www.google.com", "status": 200, "response_time_ms": 237, "timestamp": 1747276727},
+  {"url": "https://httpstat.us/404", "status": 404, "response_time_ms": 456, "timestamp": 1747276727},
+  {"url": "https://afakesiteformetotestforproject.com", "status": "error sending request for url (https://afakesiteformetotestforproject.com/): error trying to connect: dns error: No such host is known. (os error 11001)", "response_time_ms": 48, "timestamp": 1747276728}
 ]
